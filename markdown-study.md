@@ -7,6 +7,7 @@
   - [4. 插入](#4-插入)
   - [5. Todo](#5-todo)
   - [6. html语法](#6-html语法)
+  - [7. PlantUML UML图](#7-plantuml-uml图)
   - [公式](#公式)
   - [流程图](#流程图)
   - [序列图](#序列图)
@@ -91,6 +92,33 @@ baz | baz  | baz
 <center>dsa</center>
 
 `
+
+## 7. PlantUML UML图
+
+[PlantUML_Language_Reference_Guide_zh.pdf](./PlantUML_Language_Reference_Guide_zh.pdf)
+
+
+```
+@startmindmap
+* Debian
+** Ubuntu
+*** Linux Mint
+*** Kubuntu
+*** Lubuntu
+*** KDE Neon
+** LMDE
+** SolydXK
+** SteamOS
+** Raspbian with a very long name
+*** <s>Raspmbc</s> => OSMC
+*** <s>Raspyfi</s> => Volumio
+@endmindmap
+```
+
+alt+d 预览mindmap
+
+![](./images/markdown-study.png)
+
 
 ## 公式
 
