@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
 title: Joker
 description: Joker's GitHub Pages.
-show_downloads: true
-project_tagline: master
-show_downloads: true
+show_downloads: false
+show_downloads: false
